@@ -36,7 +36,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,jquery,php,java,cpp,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html" height="48" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" height="48" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=ts" height="48" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=react" height="48" title="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="48" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="48" title="Bootstrap" />
+<img src="https://skillicons.dev/icons?i=jquery" height="48" title="jQuery" />
+<img src="https://skillicons.dev/icons?i=php" height="48" title="PHP" />
+<img src="https://skillicons.dev/icons?i=java" height="48" title="Java" />
+<img src="https://skillicons.dev/icons?i=cpp" height="48" title="C++" />
+<img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=dotnet" height="48" title=".NET Framework" />
+<img src="https://skillicons.dev/icons?i=git" height="48" title="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub" />
 
 </div>
 
